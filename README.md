@@ -3,6 +3,8 @@
 <h3>About</h3>
 <p>The Todo-App is a task managing Web-Application to help its users to stay organized for their day to day activities.</p> 
 <p>The Todo-App can be used for multiple purposes such as shopping lists, taking notes or planning an event.</p>
+<h3>link todo</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">link<a/>
 <h3>Technologies Used</h3>
 <p> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -15,6 +17,7 @@
 
 <p>
 <h4>User Friendly UI</h4>
-![UI](https://user-images.githubusercontent.com/99207823/221408492-5931f907-45a6-4d19-b733-bc05422fe282.png)
+ <img src="https://user-images.githubusercontent.com/99207823/221408492-5931f907-45a6-4d19-b733-bc05422fe282.png" alt="react" /> 
+
 
 </p>
