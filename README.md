@@ -15,7 +15,6 @@
 
 <p>
 <h4>User Friendly UI</h4>
-![شسي](https://user-images.githubusercontent.com/99207823/221408492-5931f907-45a6-4d19-b733-bc05422fe282.png)
-
+![UI](https://user-images.githubusercontent.com/99207823/221408492-5931f907-45a6-4d19-b733-bc05422fe282.png)
 
 </p>
